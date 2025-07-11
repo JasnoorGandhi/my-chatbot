@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langchain
+langchain-groq
+langchain-community
+sqlalchemy
+psycopg2-binary
+qdrant-client
+sentence-transformers
+python-dotenv
+sqlparse
+streamlit
+pyngrok
