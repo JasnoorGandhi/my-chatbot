@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 fastapi
 uvicorn
 langchain
@@ -12,3 +13,18 @@ sqlparse
 streamlit
 pyngrok
 pydantic
+=======
+fastapi
+uvicorn
+langchain
+langchain-groq
+langchain-community
+sqlalchemy
+psycopg2-binary
+qdrant-client
+sentence-transformers
+python-dotenv
+sqlparse
+streamlit
+pyngrok
+>>>>>>> 7a6911ee893e59ba113d3dcb149074d2d111d8eb
